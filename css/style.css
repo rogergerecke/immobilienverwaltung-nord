@@ -44,7 +44,9 @@ html {
     color: #3f2000;
     font-weight: 300;
 }
-
+.h4-about-us{
+    font-size: 1.3rem;
+}
 .border-transparent{
     padding: 15px;
     background: rgba(255, 255, 255,0.5);
