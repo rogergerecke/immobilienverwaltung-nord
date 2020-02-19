@@ -1,0 +1,93 @@
+/* GLOBAL SETTING */
+html {
+    background: url('../img/dreamstime_m_141981871@0,75x.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    scroll-behavior:smooth;
+    scroll-padding-top: 70px;
+}
+.body{
+    font-family: myriad-pro, sans-serif;
+    font-weight: 400;
+    background: none !important;
+}
+.container-fluid{
+    padding: 0;
+}
+
+/* NAVIGATION */
+.navbar-brand{
+    padding-top: 0;
+    margin-top: -0.5rem;
+    color: #fff !important;
+    padding-bottom: 0.6rem;
+}
+
+
+.navbar-dark .navbar-nav .nav-link{
+    text-transform: uppercase;
+    color: #3f2000;
+}
+
+/* COLOR AND HEADINGS */
+.bg-orange{
+    background-color: rgba(254, 131, 1,0.93);
+   /* background-color: #fff;*/
+
+}
+
+.info-header{
+    border-bottom: solid 1px rgb(254, 131, 1);
+    text-transform: uppercase;
+    color: #3f2000;
+    font-weight: 300;
+}
+
+.border-transparent{
+    padding: 15px;
+    background: rgba(255, 255, 255,0.5);
+
+}
+.bg-trans-withe{
+    padding: 15px;
+    background: rgba(255, 255, 255,0.98);
+}
+
+/* WELCOME BANNER */
+
+.banner{
+    margin-top: 150px;
+    text-align: center;
+    min-height: 30rem;
+}
+
+.banner h1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 23px;
+    color: #3f2000;
+}
+.lead{
+    font-weight: 300;
+    margin-bottom: 12px;
+    color: #808286;
+}
+.btn-primary{
+    background-color: #400ab1;
+    border-color: #400ab1;
+
+}
+
+#kontakt{
+    margin-bottom: 10rem;
+}
+
+.year-hig{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1;
+    color: #3f2000;
+}
